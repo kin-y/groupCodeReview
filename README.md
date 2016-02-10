@@ -3,8 +3,7 @@ About us
 
 We are researching the code review process in free and open-source software (FOSS) projects, and the mechanisms to improve it.
 
-OpenStack Survey on Fairness in Code Reviewing
-http://kin-y.github.io/groupCodeReview/
+OpenStack Survey on Fairness in Code Reviewing: http://kin-y.github.io/groupCodeReview/
 
 Our group is
 - [Xin Yang](https://sites.google.com/site/xinyangatnaist/) (PhD student, Nara Institute of Science and Technology, Japan)
